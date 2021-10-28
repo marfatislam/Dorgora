@@ -1,0 +1,177 @@
+2021-10-04T03:38:34+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13472
+2021-10-04T03:38:49+00:00 NOTICE debug :: Order ID 13472 was pending and is now completed :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => 
+        )
+
+)
+
+2021-10-04T03:40:58+00:00 NOTICE order.member.updated :: Updated bplmanagerhabiganj@gmail.com subscriber status to subscribed and language to en
+2021-10-04T03:40:58+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013126 :: email: bplmanagerhabiganj@gmail.com
+2021-10-04T03:57:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8905
+2021-10-04T03:57:59+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8905
+2021-10-04T04:19:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13473
+2021-10-04T04:19:33+00:00 NOTICE debug :: Order ID 13473 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => 
+        )
+
+)
+
+2021-10-04T04:20:59+00:00 NOTICE order.member.updated :: Updated asaduzzamannil334@gmail.com subscriber status to subscribed and language to en
+2021-10-04T04:20:59+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013127 :: email: asaduzzamannil334@gmail.com
+2021-10-04T04:21:00+00:00 NOTICE debug :: Order ID 13473 was processing and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-04T04:21:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13473
+2021-10-04T04:22:37+00:00 NOTICE debug :: Order ID 13473 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-04T04:24:16+00:00 NOTICE order.member.updated :: Updated asaduzzamannil334@gmail.com subscriber status to subscribed and language to 
+2021-10-04T04:24:16+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013127 :: email: asaduzzamannil334@gmail.com
+2021-10-04T04:24:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 36
+2021-10-04T04:24:55+00:00 NOTICE member.sync :: Updated Member asaduzzamannil334@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Mohammod
+            [LNAME] => Asad
+        )
+
+)
+
+2021-10-04T04:33:35+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5ff45f48cc8e4
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 6e8fad7029
+            [name] => Dorgora
+            [domain] => https://dorgora.com
+            [email_address] => razib.pro@gmail.com
+            [currency_code] => BDT
+            [money_format] => ৳ 
+            [primary_locale] => bn_BD
+            [timezone] => Asia/Dhaka
+            [phone] => 01911011072
+            [address] => Array
+                (
+                    [address1] => 372/F, Ahmednagar, Pikepara, Mirpur - 1
+                    [city] => Dhaka
+                    [province] => Mirpur
+                    [postal_code] => 1207
+                    [country] => BD
+                    [country_code] => BD
+                    [phone] => 01911011072
+                    [company] => Dorgora
+                )
+
+        )
+
+)
+
+2021-10-04T04:37:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 11944
+2021-10-04T04:37:17+00:00 NOTICE debug :: Order ID 11944 was on-hold and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-04T04:38:59+00:00 NOTICE order.member.updated :: Updated jannatunjahan@gmail.com subscriber status to transactional and language to 
+2021-10-04T04:38:59+00:00 NOTICE order_submit.success :: updateStoreOrder :: #11944 :: email: jannatunjahan@gmail.com
+2021-10-04T04:39:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 36
+2021-10-04T04:39:56+00:00 NOTICE member.sync :: Updated Member asaduzzamannil334@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Mohammod
+            [LNAME] => Asad
+        )
+
+)
+
+2021-10-04T04:44:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 36
+2021-10-04T04:44:36+00:00 NOTICE member.sync :: Updated Member asaduzzamannil334@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Mohammod
+            [LNAME] => Asad
+        )
+
+)
+
+2021-10-04T05:41:49+00:00 NOTICE debug :: Order ID 13467 was processing and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-04T05:41:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13467
+2021-10-04T05:42:08+00:00 NOTICE debug :: Order ID 13466 was processing and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-04T05:42:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13466
+2021-10-04T05:43:59+00:00 NOTICE order.member.updated :: Updated said.samin@gmail.com subscriber status to transactional and language to 
+2021-10-04T05:43:59+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013123 :: email: said.samin@gmail.com
+2021-10-04T05:44:03+00:00 NOTICE order.member.updated :: Updated billahnorm@gmail.com subscriber status to subscribed and language to 
+2021-10-04T05:44:03+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013122 :: email: billahnorm@gmail.com
+2021-10-04T07:32:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13487
+2021-10-04T07:32:41+00:00 NOTICE debug :: Order ID 13487 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/wp-admin/admin-ajax.php
+        )
+
+)
+
+2021-10-04T07:33:59+00:00 NOTICE order.member.updated :: Updated Navirajahid@gmail.com subscriber status to transactional and language to en
+2021-10-04T07:33:59+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013128 :: email: Navirajahid@gmail.com :: landing site https://dorgora.com/wp-admin/admin-ajax.php
+2021-10-04T10:36:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13487
+2021-10-04T10:36:56+00:00 NOTICE debug :: Order ID 13487 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-04T10:38:46+00:00 NOTICE order.member.updated :: Updated Navirajahid@gmail.com subscriber status to transactional and language to 
+2021-10-04T10:38:46+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013128 :: email: Navirajahid@gmail.com
+2021-10-04T13:10:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 57474a3d3196d0d58aae6317d9f6fcc9
+2021-10-04T13:10:04+00:00 NOTICE abandoned_cart.success :: email: shamima1997@gmail.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=57474a3d3196d0d58aae6317d9f6fcc9
+2021-10-04T13:10:05+00:00 NOTICE cart.member.updated :: Updated shamima1997@gmail.com subscriber status to transactional and language to en
+2021-10-04T13:11:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13488
+2021-10-04T13:12:08+00:00 NOTICE debug :: Order ID 13488 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-10-04T13:14:06+00:00 NOTICE order.member.updated :: Updated shamima1997@gmail.com subscriber status to transactional and language to en
+2021-10-04T13:14:06+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013129 :: email: shamima1997@gmail.com :: landing site https://dorgora.com/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [57474a3d3196d0d58aae6317d9f6fcc9]

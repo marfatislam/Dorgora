@@ -1,0 +1,29 @@
+2021-10-26T06:42:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13670
+2021-10-26T06:42:38+00:00 NOTICE product_submit.success :: addStoreProduct :: #13670
+2021-10-26T06:46:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13673
+2021-10-26T06:46:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #13673
+2021-10-26T06:48:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13675
+2021-10-26T06:49:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #13675
+2021-10-26T06:53:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13678
+2021-10-26T06:53:45+00:00 NOTICE product_submit.success :: addStoreProduct :: #13678
+2021-10-26T08:05:11+00:00 NOTICE debug :: Order ID 13659 was processing and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-26T08:05:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13659
+2021-10-26T08:06:25+00:00 NOTICE debug :: Order ID 13659 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-26T08:08:06+00:00 NOTICE validation.bad_email :: Order #BPL-013178 has an invalid email address. Skipping!
+2021-10-26T11:18:05+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 920e1df8e6aede1b3fe80a5cef7926c4
+2021-10-26T11:19:03+00:00 NOTICE abandoned_cart.success :: email: shahidul_kotha@yahoo.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=920e1df8e6aede1b3fe80a5cef7926c4
+2021-10-26T11:19:04+00:00 NOTICE cart.member.updated :: Updated shahidul_kotha@yahoo.com subscriber status to transactional and language to en
+2021-10-26T11:55:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13423
+2021-10-26T11:55:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13424
+2021-10-26T11:55:56+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13423
+2021-10-26T11:55:57+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13424

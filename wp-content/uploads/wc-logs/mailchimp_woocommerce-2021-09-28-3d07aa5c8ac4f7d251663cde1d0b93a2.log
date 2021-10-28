@@ -1,0 +1,19 @@
+2021-09-28T09:25:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 11130
+2021-09-28T09:25:45+00:00 NOTICE product_submit.success :: updateStoreProduct :: #11130
+2021-09-28T10:41:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 379d9d75b0bded063b969745620bd586
+2021-09-28T10:41:47+00:00 NOTICE abandoned_cart.success :: email: rjsohell63@gmail.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=379d9d75b0bded063b969745620bd586
+2021-09-28T10:41:48+00:00 NOTICE cart.member.updated :: Updated rjsohell63@gmail.com subscriber status to transactional and language to en
+2021-09-28T10:43:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13315
+2021-09-28T10:43:24+00:00 NOTICE debug :: Order ID 13315 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/?wc-ajax=add_to_cart
+        )
+
+)
+
+2021-09-28T10:44:47+00:00 NOTICE order.member.updated :: Updated rjsohell63@gmail.com subscriber status to subscribed and language to en
+2021-09-28T10:44:47+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013115 :: email: rjsohell63@gmail.com :: landing site https://dorgora.com/?wc-ajax=add_to_cart :: abandoned cart deleted [379d9d75b0bded063b969745620bd586]

@@ -1,0 +1,60 @@
+2021-10-09T03:40:58+00:00 NOTICE debug :: Order ID 13512 was processing and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-09T03:40:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13512
+2021-10-09T03:42:35+00:00 NOTICE validation.bad_email :: Order #BPL-013138 has an invalid email address. Skipping!
+2021-10-09T05:42:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13488
+2021-10-09T05:44:46+00:00 NOTICE order.member.updated :: Updated shamima1997@gmail.com subscriber status to transactional and language to 
+2021-10-09T05:44:46+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013129 :: email: shamima1997@gmail.com
+2021-10-09T05:51:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13513
+2021-10-09T05:51:53+00:00 NOTICE debug :: Order ID 13513 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/wp-admin/admin-ajax.php
+        )
+
+)
+
+2021-10-09T05:54:01+00:00 NOTICE order.member.updated :: Updated shamima1997@gmail.com subscriber status to transactional and language to en
+2021-10-09T05:54:01+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013139 :: email: shamima1997@gmail.com :: landing site https://dorgora.com/wp-admin/admin-ajax.php
+2021-10-09T06:25:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13416
+2021-10-09T06:25:55+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13416
+2021-10-09T06:26:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13417
+2021-10-09T06:26:53+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13417
+2021-10-09T06:28:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13416
+2021-10-09T06:28:23+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13417
+2021-10-09T06:29:00+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13416
+2021-10-09T06:29:01+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13417
+2021-10-09T06:34:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13410
+2021-10-09T06:35:24+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13411
+2021-10-09T06:35:49+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13410
+2021-10-09T06:35:55+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13411
+2021-10-09T06:42:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13408
+2021-10-09T06:42:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13409
+2021-10-09T06:42:56+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13408
+2021-10-09T06:44:03+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13409
+2021-10-09T07:34:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13419
+2021-10-09T07:34:23+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13419
+2021-10-09T07:34:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 13418
+2021-10-09T07:34:56+00:00 NOTICE product_submit.success :: updateStoreProduct :: #13418
+2021-10-09T11:05:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 8777
+2021-10-09T11:05:16+00:00 NOTICE product_submit.success :: updateStoreProduct :: #8777
+2021-10-09T12:53:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13521
+2021-10-09T12:53:51+00:00 NOTICE debug :: Order ID 13521 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/wp-admin/admin-ajax.php
+        )
+
+)
+
+2021-10-09T12:55:56+00:00 NOTICE validation.bad_email :: Order #BPL-013140 has an invalid email address. Skipping!

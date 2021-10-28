@@ -1,0 +1,101 @@
+2021-10-17T05:57:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13564
+2021-10-17T05:57:32+00:00 NOTICE debug :: Order ID 13564 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/wp-admin/admin-ajax.php
+        )
+
+)
+
+2021-10-17T05:59:00+00:00 NOTICE order.member.updated :: Updated rhsumon@gmail.com subscriber status to subscribed and language to en
+2021-10-17T05:59:00+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013160 :: email: rhsumon@gmail.com :: landing site https://dorgora.com/wp-admin/admin-ajax.php
+2021-10-17T10:50:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id a1f58cf38c6a2a7d0eac0b00461bbd02
+2021-10-17T10:50:56+00:00 NOTICE abandoned_cart.success :: email: mkt1.dorgora@gmail.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=a1f58cf38c6a2a7d0eac0b00461bbd02
+2021-10-17T10:50:57+00:00 NOTICE cart.member.updated :: Updated mkt1.dorgora@gmail.com subscriber status to subscribed and language to en
+2021-10-17T11:09:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 344
+2021-10-17T11:09:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13565
+2021-10-17T11:09:21+00:00 NOTICE member.sync :: Updated Member mkt1.dorgora@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Omar
+            [LNAME] => Khandokar
+        )
+
+)
+
+2021-10-17T11:09:26+00:00 NOTICE debug :: Order ID 13565 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-10-17T11:11:00+00:00 NOTICE order.member.updated :: Updated mkt1dorgora@gmail.com subscriber status to subscribed and language to en
+2021-10-17T11:11:00+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013161 :: email: mkt1dorgora@gmail.com :: landing site https://dorgora.com/?wc-ajax=get_refreshed_fragments
+2021-10-17T11:22:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 9143
+2021-10-17T11:22:11+00:00 NOTICE product_submit.success :: updateStoreProduct :: #9143
+2021-10-17T11:22:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5430
+2021-10-17T11:23:55+00:00 NOTICE product_submit.success :: updateStoreProduct :: #5430
+2021-10-17T11:24:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 5430
+2021-10-17T11:24:58+00:00 NOTICE product_submit.success :: updateStoreProduct :: #5430
+2021-10-17T12:03:55+00:00 NOTICE debug :: Order ID 13565 was processing and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-17T12:03:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13565
+2021-10-17T12:06:02+00:00 NOTICE order.member.updated :: Updated mkt1dorgora@gmail.com subscriber status to subscribed and language to 
+2021-10-17T12:06:02+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013161 :: email: mkt1dorgora@gmail.com
+2021-10-17T12:08:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13565
+2021-10-17T12:11:00+00:00 NOTICE order.member.updated :: Updated mkt1dorgora@gmail.com subscriber status to subscribed and language to 
+2021-10-17T12:11:00+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013161 :: email: mkt1dorgora@gmail.com
+2021-10-17T12:12:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id c320409cf8dac81d49ab263bfb24f93e
+2021-10-17T12:12:23+00:00 NOTICE abandoned_cart.success :: email: marfatislam@gmail.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=c320409cf8dac81d49ab263bfb24f93e
+2021-10-17T12:12:23+00:00 NOTICE cart.member.updated :: Updated marfatislam@gmail.com subscriber status to subscribed and language to en
+2021-10-17T12:13:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id c320409cf8dac81d49ab263bfb24f93e
+2021-10-17T12:13:41+00:00 NOTICE abandoned_cart.success :: email: marfatislam@gmail.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=c320409cf8dac81d49ab263bfb24f93e
+2021-10-17T12:13:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id c320409cf8dac81d49ab263bfb24f93e
+2021-10-17T12:13:55+00:00 NOTICE abandoned_cart.success :: email: marfatislam@gmail.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=c320409cf8dac81d49ab263bfb24f93e
+2021-10-17T12:14:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 126
+2021-10-17T12:14:56+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13567
+2021-10-17T12:14:57+00:00 NOTICE member.sync :: Updated Member marfatislam@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Md.Marfat
+            [LNAME] => Ali
+        )
+
+)
+
+2021-10-17T12:15:13+00:00 NOTICE debug :: Order ID 13567 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2021-10-17T12:16:59+00:00 NOTICE order.member.updated :: Updated marfatislam@gmail.com subscriber status to subscribed and language to en
+2021-10-17T12:16:59+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013162 :: email: marfatislam@gmail.com :: landing site https://dorgora.com/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [c320409cf8dac81d49ab263bfb24f93e]
+2021-10-17T12:23:17+00:00 NOTICE debug :: Order ID 13567 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-17T12:23:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13567
+2021-10-17T12:24:58+00:00 NOTICE order.member.updated :: Updated marfatislam@gmail.com subscriber status to subscribed and language to 
+2021-10-17T12:24:58+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BPL-013162 :: email: marfatislam@gmail.com

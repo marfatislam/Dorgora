@@ -1,0 +1,233 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showLogo" : true,
+      "showSearch": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "height": 0.20,
+      "items": [
+        {
+          "category": 232,
+          "image": "https://dorgora.com/wp-content/uploads/2021/02/shoping-made-easy-4.png",
+          "padding": 15.0,
+          "coupon": "",
+          "radius": 9.0
+        },
+        {
+          "category": 322,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/1bf47a828eb5741c616ce6e9d7a9b45c/background3.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 317,
+          "image": "https://dorgora.com/wp-content/uploads/2021/02/Daily-food-350-15-1.png",
+          "padding": 15.0
+        }
+      ]
+    },
+
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 0.92,
+      "radius": 50.0,
+      "noBackground": true,
+      "columns": 4,
+      "padding": 10.0,
+      "items": [
+        {
+          "category": 320,
+          "image": "https://dorgora.com/wp-content/uploads/2021/02/Covid-1.png",
+          "colors": [
+            "#3CC2BF",
+            "#026DCD"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 321,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/New-Color.jpg",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 322,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Popular-Color-1_1.jpg",
+          "colors": [
+            "#3CC2BF",
+            "#026DCD"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 232,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Grocery-Color-1.jpg",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 317,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Dairy-Color.jpg",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 257,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Baby-Color.jpg",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 240,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Meat-Fish-Color.jpg",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 297,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Home-Applience-Color.jpg",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 250,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Beauty-Color-1.jpg",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 248,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Clean-Color.jpg",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 261,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Bread-Color.jpg",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 292,
+          "image": "https://dorgora.com/wp-content/uploads/2021/01/Office-Color.jpg",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        }
+      ]
+    },
+    {
+      "name": "Offers",
+      "image": "",
+      "layout": "threeColumn",
+      "isSnapping": true,
+      "category": 322
+    },
+    {
+      "name": "Latest Products",
+      "image": "",
+      "layout": "twoColumn",
+      "isSnapping": true,
+      "category": 261
+    }
+  ],
+  "VerticalLayout": {
+    "layout": "columns",
+    "name": "All Products"
+  },
+  "Setting": {
+    "MainColor": "#51aa1b",
+    "ProductListLayout": "twoColumn",
+    "StickyHeader": true
+  },
+  "TabBar": [{
+    "layout": "home",
+    "icon": "assets/icons/tabs/icon-home.png"
+  },
+    {
+      "layout": "vendors",
+      "categoryLayout": "sideMenuWithSub",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
+    }
+  ],
+  "searchSuggestion": [
+    "man",
+    "dress",
+    "Stitch",
+    "ma"
+  ],
+  "OnBoarding": {
+    "data": [{
+      "title": "Welcome to Dorgora",
+      "image": "assets/images/fogg-delivery-1.png",
+      "desc": "Dorgora is on the way to serve you. ",
+      "background": "#FFF3F2"
+    },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  }
+}

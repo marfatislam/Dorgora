@@ -1,0 +1,14 @@
+2021-09-29T05:54:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13375
+2021-09-29T05:55:00+00:00 NOTICE debug :: Order ID 13375 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/wp-admin/admin-ajax.php
+        )
+
+)
+
+2021-09-29T05:56:47+00:00 NOTICE order.member.updated :: Updated jannatunjahan@gmail.com subscriber status to transactional and language to en
+2021-09-29T05:56:47+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013116 :: email: jannatunjahan@gmail.com :: landing site https://dorgora.com/wp-admin/admin-ajax.php

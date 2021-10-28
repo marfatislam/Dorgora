@@ -1,0 +1,28 @@
+2021-10-22T15:29:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 5ce0060e1eaf9363a13c6a123fe81929
+2021-10-22T15:30:01+00:00 NOTICE abandoned_cart.success :: email: tanvir073@yahoo.com :: checkout_url: https://dorgora.com/checkout/?mc_cart_id=5ce0060e1eaf9363a13c6a123fe81929
+2021-10-22T15:30:02+00:00 NOTICE cart.member.updated :: Updated tanvir073@yahoo.com subscriber status to subscribed and language to en
+2021-10-22T15:37:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 147
+2021-10-22T15:37:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 13629
+2021-10-22T15:37:56+00:00 NOTICE member.sync :: Updated Member tanvir073@yahoo.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Tanvir
+            [LNAME] => Ahmad
+        )
+
+)
+
+2021-10-22T15:38:09+00:00 NOTICE debug :: Order ID 13629 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://dorgora.com/?wc-ajax=add_to_cart
+        )
+
+)
+
+2021-10-22T15:40:01+00:00 NOTICE order.member.updated :: Updated tanvir073@yahoo.com subscriber status to subscribed and language to en
+2021-10-22T15:40:01+00:00 NOTICE order_submit.success :: addStoreOrder :: #BPL-013172 :: email: tanvir073@yahoo.com :: landing site https://dorgora.com/?wc-ajax=add_to_cart :: abandoned cart deleted [5ce0060e1eaf9363a13c6a123fe81929]

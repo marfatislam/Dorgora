@@ -1,0 +1,12 @@
+2021-10-17T02:31:11+00:00 CRITICAL Uncaught Error: Call to a member function wcfmmp_search_vendor_list() on null in /var/www/dorgora.com/wp-content/plugins/mstore-api/controllers/helpers/WCFM.php:39
+Stack trace:
+#0 /var/www/dorgora.com/wp-content/plugins/mstore-api/controllers/FlutterVendor.php(567): FlutterWCFMHelper->flutter_get_wcfm_stores()
+#1 /var/www/dorgora.com/wp-includes/rest-api/class-wp-rest-server.php(1140): FlutterVendor->flutter_get_wcfm_stores()
+#2 /var/www/dorgora.com/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request()
+#3 /var/www/dorgora.com/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch()
+#4 /var/www/dorgora.com/wp-includes/rest-api.php(370): WP_REST_Server->serve_request()
+#5 /var/www/dorgora.com/wp-includes/class-wp-hook.php(303): rest_api_loaded()
+#6 /var/www/dorgora.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#7 /var/www/dorgora.com/wp-includes/plugin.php(518): WP_Hook->do_action()
+#8 /var/www/dorgora.com/wp-includes/class-wp.php(388): in /var/www/dorgora.com/wp-content/plugins/mstore-api/controllers/helpers/WCFM.php on line 39
+

@@ -1,0 +1,67 @@
+[2021-03-23 09:39:06]  ----- BEGIN -----
+[2021-03-23 09:39:06]  Old version 1.9.9
+[2021-03-23 09:39:06]  Migrations found: 
+[2021-03-23 09:39:06]  ArContactusUpgrade_157.php
+[2021-03-23 09:39:06]  ArContactusUpgrade_160.php
+[2021-03-23 09:39:06]  ArContactusUpgrade_180.php
+[2021-03-23 09:39:06]  ArContactusUpgrade_182.php
+[2021-03-23 09:39:06]  ArContactusUpgrade_195.php
+[2021-03-23 09:39:06]  ArContactusUpgrade_199.php
+[2021-03-23 09:39:06]  ArContactusUpgrade_200.php
+[2021-03-23 09:39:06]  Applying migration ArContactusUpgrade_200.php[2021-03-23 09:39:06]   :: OK
+[2021-03-23 09:39:06]  Store migration version 2.0.0
+[2021-03-23 09:39:06]  Store plugin version 2.0.2
+[2021-03-23 09:39:06]  ----- END -----
+
+[2021-03-23 09:39:27]  ----- BEGIN -----
+[2021-03-23 09:39:27]  Old version 2.0.2
+[2021-03-23 09:39:27]  Migrations found: 
+[2021-03-23 09:39:27]  ArContactusUpgrade_157.php
+[2021-03-23 09:39:27]  ArContactusUpgrade_160.php
+[2021-03-23 09:39:27]  ArContactusUpgrade_180.php
+[2021-03-23 09:39:27]  ArContactusUpgrade_182.php
+[2021-03-23 09:39:27]  ArContactusUpgrade_195.php
+[2021-03-23 09:39:27]  ArContactusUpgrade_199.php
+[2021-03-23 09:39:27]  ArContactusUpgrade_200.php
+[2021-03-23 09:39:27]  Store plugin version 2.0.2
+[2021-03-23 09:39:27]  ----- END -----
+
+[2021-03-25 08:51:00]  ----- BEGIN -----
+[2021-03-25 08:51:00]  Old version 2.0.2
+[2021-03-25 08:51:00]  Migrations found: 
+[2021-03-25 08:51:00]  ArContactusUpgrade_157.php
+[2021-03-25 08:51:00]  ArContactusUpgrade_160.php
+[2021-03-25 08:51:00]  ArContactusUpgrade_180.php
+[2021-03-25 08:51:00]  ArContactusUpgrade_182.php
+[2021-03-25 08:51:00]  ArContactusUpgrade_195.php
+[2021-03-25 08:51:00]  ArContactusUpgrade_199.php
+[2021-03-25 08:51:00]  ArContactusUpgrade_200.php
+[2021-03-25 08:51:00]  Store plugin version 2.0.2
+[2021-03-25 08:51:00]  ----- END -----
+
+[2021-03-25 08:51:23]  ----- BEGIN -----
+[2021-03-25 08:51:23]  Old version 2.0.2
+[2021-03-25 08:51:23]  Migrations found: 
+[2021-03-25 08:51:23]  ArContactusUpgrade_157.php
+[2021-03-25 08:51:23]  ArContactusUpgrade_160.php
+[2021-03-25 08:51:23]  ArContactusUpgrade_180.php
+[2021-03-25 08:51:23]  ArContactusUpgrade_182.php
+[2021-03-25 08:51:23]  ArContactusUpgrade_195.php
+[2021-03-25 08:51:23]  ArContactusUpgrade_199.php
+[2021-03-25 08:51:23]  ArContactusUpgrade_200.php
+[2021-03-25 08:51:23]  Store plugin version 2.0.2
+[2021-03-25 08:51:23]  ----- END -----
+
+[2021-03-25 08:51:41]  ----- BEGIN -----
+[2021-03-25 08:51:41]  Old version 2.0.2
+[2021-03-25 08:51:41]  Migrations found: 
+[2021-03-25 08:51:41]  ArContactusUpgrade_157.php
+[2021-03-25 08:51:41]  ArContactusUpgrade_160.php
+[2021-03-25 08:51:41]  ArContactusUpgrade_180.php
+[2021-03-25 08:51:41]  ArContactusUpgrade_182.php
+[2021-03-25 08:51:41]  ArContactusUpgrade_195.php
+[2021-03-25 08:51:41]  ArContactusUpgrade_199.php
+[2021-03-25 08:51:41]  ArContactusUpgrade_200.php
+[2021-03-25 08:51:41]  Store plugin version 2.0.2
+[2021-03-25 08:51:41]  ----- END -----
+

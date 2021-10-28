@@ -1,0 +1,9 @@
+{
+    "require": {
+        "signalwire/signalwire": "^2.3",
+        "camoo/sms": "^3.1",
+        "cmdotcom/text-sdk-php": "^1.2",
+        "alibabacloud/sdk": "^1.8",
+        "aws/aws-sdk-php": "^3.133"
+    }
+}
